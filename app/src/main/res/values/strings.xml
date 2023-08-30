@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro App Dio</string>
+    <string name="hello_dio">Conheça meu primeiro app criado como \ndesafio para o Bootcamp Santander-Dio.</string>
+
+</resources>
