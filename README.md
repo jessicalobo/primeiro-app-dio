@@ -1,4 +1,4 @@
-#Primeiro App Dio | Santander Bootcamp
+# Primeiro App Dio | Santander Bootcamp
 
 Meu nome é Jessica Lobo, sou formada em Pedagogia, profissão em que trabalhei mais de 10 anos,
 mas atualmente estudo programação e busco novas experiências para migrar de profissão. 
@@ -9,7 +9,7 @@ Esse projeto é um app simples com internacionalização e apenas uma activity m
 principal em diferentes linguagens de acordo com a linguagem do dispositivo. 
 Aproveitei e adicionei as bandeiras dos países de forma que mudem também de acordo com a linguagem.
 
-![Screenshot](assets/screencast_1.webm)
+![Screenshot](assets/screencast_1.gif)
 
 ![Screenshot](assets/screenshot_1.png)
 
